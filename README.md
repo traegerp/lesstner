@@ -5,13 +5,13 @@ Lesstner is a less automatic compiler to css for node js. It watches your target
 
 To install use npm with the global flag. You must use the global flag 
 
-<code> npm install lesstner --global </code>
+<code>$ npm install lesstner --global </code>
 
 ##How to use
 
 After installing the CLI, use it from a bash terminal as follows:
 
-<code> lesstner style.less style.css  </code>
+<code>$ lesstner style.less style.css  </code>
 
 You will see the following output screen:
 
