@@ -11,16 +11,12 @@ To install use npm with the global flag. You must use the global flag
 
 After installing the CLI, use it from a bash terminal as follows:
 
-<code> lesstner <less file>  <output css file> </code>
+<code> lesstner style.less style.css  </code>
 
 You will see the following output screen:
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-
  Lesstner - the less to css live compiler 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
  Running... 
 
