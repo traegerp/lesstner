@@ -15,7 +15,6 @@ After installing the CLI, use it from a bash terminal as follows:
 
 You will see the following output screen:
 
-<code>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
@@ -28,7 +27,6 @@ You will see the following output screen:
  automatic compiler is watching style.less and outputting to style.css
 
  Change Log: 
- 
- </code>
+
  
  Your changes will automatically compile and the time stamp of the change will be placed in the change log.
